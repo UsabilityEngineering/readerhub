@@ -1,4 +1,4 @@
-![readerhub]personas/Personas.pdf Personas
+Personas.pdf Personas
 
 
 

@@ -1,4 +1,4 @@
-Persona.pdf Personas
+personas/Personas.pdf Personas
 
 
 

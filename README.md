@@ -1,14 +1,13 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+# ReaderHub
+
+ReaderHub is mainly a social media platform that aims to connect readers all around the world, allowing them to interact and share opinions about books on top of being able to create their own online library, write reviews and remain updated about the latest news in the publishing scene. It is important to understand though that the focus of ReaderHub is the social media aspect. This is because this aspect is completely lacking in every one of the competitors that we analized, and readers usually turn to more traditional social media apps to talk about their interests. Therefore, ReaderHub wants to provide a platform that would give readers what they don't have right now, a space dedicated only to them. 
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Anna Di Iulio](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **[Max Hibbard](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
  

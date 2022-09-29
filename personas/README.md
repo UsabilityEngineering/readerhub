@@ -1,5 +1,5 @@
-Persona Personas
+Persona.pdf Personas
 
 
 
-Scenario Scenarios
+Scenario.pdf Scenarios

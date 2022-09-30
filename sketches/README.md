@@ -9,4 +9,4 @@
 # Diagram
 
 
-to be added
+![Diagram](/sketches/Diagram.jpg)

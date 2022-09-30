@@ -1,4 +1,4 @@
-Personas
+# Personas
 
 ![John](/personas/John.jpeg)
 
@@ -124,4 +124,53 @@ Goals:
 ---------------------------------------------------------
 ![Scenarios](/personas/Scenarios.pdf)
 
-Scenario.pdf Scenarios
+# Scenarios
+
+Scenario - John
+
+John finally gets home from his 9-5 boring job and wants to sit down and enjoy his hobby of
+reading. He looks around his apartment and see’s how empty and quiet it is and decides to start
+reading. Unfortunately, he currently doesn’t have a new book to read as he’s already gone
+through his current books and gets depressed. He wants to find more fantasy books to read
+easily and fast.
+
+---------------------------------------------------------
+
+Scenario - Logan
+
+Logan comes home and goes onto his computer and feels a bit lonely without his friends there
+with him. His dog cheers him up but he still feels a bit down that his friends aren't into his hobby.
+He tries to start reading some new science and science fiction books while thinking of his
+friends and would love to share his hobby with them. After a short while, he finishes his current
+stock of books and would love to find more books. Maybe some that his friends would enjoy.
+
+---------------------------------------------------------
+
+Scenario - Raffaele
+
+It’s the week before Christmas and Raffaele have been put in charge of organizing the
+Christmas lunch. He has been wishing for this day to come, his parents have never let him cook
+for this day because they think his dishes are too extravagant, but this year they want to try
+something new. The problem is, Raffaele has no idea what he should cook, he knows that his
+guests are expecting something they have never had before, but he feels like nothing he can
+offer is innovative enough.
+
+---------------------------------------------------------
+
+Scenario - Caroline
+
+It’s almost 2 am and Caroline is reading a book under her covers, shining the flashlight of her
+phone against the pages to be able to see. She always preferred to read at night, it made the
+whole experience so much better. The thing is, she can’t concentrate. Today some boys at her
+school had spray-painted the word “freak” on her locker, and as she was cleaning and crying,
+she noticed that people were only laughing and no one was going to help her.
+
+---------------------------------------------------------
+
+Scenario - Oliver
+
+Oliver is preparing for his next class at his desk at home. He is absentmindedly listening to his
+wife sing while preparing dinner, she has always done that and he loves it. He has been thinking
+about assigning a new book to read, but nothing that he has in his library seems good enough.
+They are all long, old books that can be in no way appealing to a young college student, but he
+has no idea where to find new titles.

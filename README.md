@@ -28,10 +28,13 @@ ReaderHub is mainly a social media platform that aims to connect readers all aro
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* **Competitive analysis** showed what was lacking on the main websites and apps used by readers
+    [social media platform] : readers do not have a dedicated place for them to connect directly to people who share their interests.
+* **Heuristic Evaluation** of competitors found many websites cluttered with advertisements and overall the design was not simple. Language of shortcuts might pose a     problem to non-English speakers. Lots of steps to be taken to add or remove books.
+* Personas and scenarios underlined the users' most important needs
+    * **desire to connect** with other people who share interests
+    * need to **discover new books**, and to know what other people thought of those books
+
 
 [Full phase I report](phaseI/)
 

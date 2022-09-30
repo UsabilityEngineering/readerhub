@@ -14,7 +14,7 @@ ReaderHub is mainly a social media platform that aims to connect readers all aro
  
    * Personas and Scenarios Page
    * Sketch and Diagram Page
-   * Heuristic Evaluation 
+   * Heuristic Evaluation Report
 
 # User-Centered Design Artifacts
  

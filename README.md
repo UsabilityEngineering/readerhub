@@ -9,10 +9,9 @@ ReaderHub is mainly a social media platform that aims to connect readers all aro
 * **[Anna Di Iulio](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
 * **[Max Hibbard](https://usabilityengineering.github.io/ux-portfolio-Subasamax/)** 
  
-   * Personas and Scenarios
-   * Sketch
-   * Heuristic Evaluation
-   * Competitve Analysis
+   * Personas and Scenarios Page
+   * Sketch and Diagram Page
+   * Heuristic Evaluation 
 
 # User-Centered Design Artifacts
  

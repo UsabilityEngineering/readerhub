@@ -7,7 +7,7 @@ ReaderHub is mainly a social media platform that aims to connect readers all aro
 ## UX Team Members
 
 * **[Anna Di Iulio](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Max Hibbard](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Max Hibbard](https://usabilityengineering.github.io/ux-portfolio-Subasamax/)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
  

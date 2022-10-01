@@ -1,6 +1,6 @@
 # Personas
 
-![John](/personas/John.jpeg)
+![John ](/personas/John.jpeg)
 
 John
 

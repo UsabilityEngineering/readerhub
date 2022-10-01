@@ -27,7 +27,7 @@ Goals:
 
 ---------------------------------------------------------
 
-![Logan](/personas/Logan.jpeg)
+![Logan](Logan.jpeg)
 
 Logan
 
@@ -51,7 +51,7 @@ Goals:
 
 ---------------------------------------------------------
 
-![Raffaele](/personas/Raffaele.jpeg)
+![Raffaele](Raffaele.jpeg)
 
 Raffaele
 
@@ -72,7 +72,7 @@ Goals:
 
 ---------------------------------------------------------
 
-![Caroline](/personas/Caroline.jpeg)
+![Caroline](Caroline.jpeg)
 
 Caroline
 
@@ -98,7 +98,7 @@ Goals:
 
 ---------------------------------------------------------
 
-![Oliver](/personas/Oliver.jpeg)
+![Oliver](Oliver.jpeg)
 
 Oliver
 

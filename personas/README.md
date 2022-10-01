@@ -2,8 +2,6 @@
 
 ![John](/personas/John.jpeg)
 
-![alt text](/personas/John.jpeg)
-
 John
 
 A 25-year-old male in Portland Oregon

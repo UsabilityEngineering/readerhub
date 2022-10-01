@@ -1,6 +1,6 @@
 # Personas
 
-![John](https://github.com/UsabilityEngineering/readerhub/blob/main/personas/John.jpeg)
+![John](/personas/John.jpeg)
 
 John
 

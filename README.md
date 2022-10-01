@@ -6,9 +6,9 @@ ReaderHub is mainly a social media platform that aims to connect readers all aro
 
 ## UX Team Members
 
-* **[Anna Di Iulio](https://usabilityengineering.github.io/ux-portfolio-adiiulio/)** - 
+* **[Anna Di Iulio](https://usabilityengineering.github.io/ux-portfolio-adiiulio/)**  
    * Executive summary
-   * Summary
+   * Introduction
    * Report 
 * **[Max Hibbard](https://usabilityengineering.github.io/ux-portfolio-Subasamax/)** 
  
@@ -18,7 +18,6 @@ ReaderHub is mainly a social media platform that aims to connect readers all aro
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](#) - Coming soon (phase II)!

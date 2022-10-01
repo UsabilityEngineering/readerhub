@@ -33,6 +33,11 @@ ReaderHub is mainly a platform that aims to connect readers all around the world
 * Personas and scenarios underlined the users' most important needs
     * **desire to connect** with other people who share interests
     * need to **discover new books**, and to know what other people thought of those books
+* Sketches and Diagrams show initial design concepts
+    * Simple designs to only show you what you want while being intuitive to use
+    * Focus on the social aspect like messaging
+    * The flow Diagram shows the initial concept of user interaction
+
 
 
 [Full phase I report](phaseI/)

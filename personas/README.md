@@ -122,7 +122,6 @@ Goals:
 - Know what other college students say about those books
 
 ---------------------------------------------------------
-![Scenarios](/personas/Scenarios.pdf)
 
 # Scenarios
 

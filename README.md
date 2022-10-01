@@ -2,7 +2,7 @@
 
 # ReaderHub
 
-ReaderHub is mainly a social media platform that aims to connect readers all around the world, allowing them to interact and share opinions about books on top of being able to create their own online library, write reviews, remain updated about the latest news in the publishing scene and receive recommendations based on previous ratings and reviews. It is important to understand though that the focus of ReaderHub is the social media aspect. This is because this aspect is completely lacking in every one of the competitors that we analyzed, and readers usually turn to more traditional social media apps to talk about their interests. Therefore, ReaderHub wants to provide a platform that would give readers what they don't have right now, a space dedicated only to them.
+ReaderHub is mainly a platform that aims to connect readers all around the world, allowing them to interact and share opinions about books on top of being able to create their own online library, write reviews, remain updated about the latest news in the publishing scene and receive recommendations based on past interactions. It is important to understand though that the focus of ReaderHub is the social media aspect. This is because this aspect is completely lacking in every one of the competitors that we analyzed, and readers usually turn to more traditional social media apps to talk about their interests. Therefore, ReaderHub wants to provide a platform that would give readers what they don't have right now, a space dedicated only to them.
 
 ## UX Team Members
 

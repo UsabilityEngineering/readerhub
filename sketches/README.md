@@ -1,6 +1,6 @@
 # Sketches
 
-![SketchMaxHibbard](/sketches/SketchMaxHibbard.png)
+![SketchMax](/sketches/SketchMaxHibbard.png)
 
 
 ![SketchAnnaDiIulio](/sketches/SketchAnnaDiIulio.png)

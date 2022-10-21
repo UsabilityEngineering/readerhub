@@ -20,7 +20,7 @@ ReaderHub is mainly a platform that aims to connect readers all around the world
  
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
-* [Wireframes](#) - Coming soon (phase II)!
+* [Wireframes](wireframes/) - Coming soon (phase II)!
 * [Prototype](#) - Coming soon (phase III)!
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs

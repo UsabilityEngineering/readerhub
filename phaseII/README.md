@@ -6,16 +6,20 @@ Once we were done with this step our peers performed a cognitive walkthrough usi
  
 ## Wireframes 
 **Method**
+
 Wireframes show all possible interactions between the user and the program. A wireframe shows each possible page in those interactions in a basic way without any visual design.
 **Findings**
+
 The interaction on a wireframe made for social media interaction is complicated as there are a lot of factors to take into consideration. For example, the entire profile interaction is a complicated process as you need to let them see their book library, let them edit their profile, and post. 
 The whole wireframe is involved in a complicated process in order to make sure all possible interactions are covered. As discussed above, each page might have a ton of possible interactions in order to cover social media content. When editing their profile, it includes editing their Bio, username, password, user photo, ect. Changing their password requires a new page to verify their current password and what they want their new password to be. Each page also features the menu at the top which can navigate through the wireframe.
 
 ## Cognitive Walkthrough
 **Method**
+
 Cognitive walkthroughs lets you get some user interaction and feedback on how to accomplish tasks. You take a persona and try to accomplish their goals through their perspective in a step by step interaction of the wireframes.
 
 **Findings**
+
 Cognitive Walkthrough - Caroline
 
 The cognitive walkthrough for Caroline illustrated that our users will all have different goals and needs from our site. In the sign up page, we asked for a first name instead of a username. The user wondered why the website would ask for a first name as the convention is usually a username. The interaction informed us that the search bar, and the edit profile button was not identifiable for this user. Since the user was not able to identify the search bar, they could not access the search page and book pages. It informed us that the help page might be ignored in order to explore the site themselves.

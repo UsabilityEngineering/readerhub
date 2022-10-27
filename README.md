@@ -46,10 +46,17 @@ ReaderHub is mainly a platform that aims to connect readers all around the world
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+During this phase the tools of wireframes and cognitive walkthrough were used to further push the project forward. The work done was also informally reviewed by peers.
+
+**Wireframes**: The wireframes show all possible interactions between the user and the program. 
+*It was found that social media workflows are complicated with a lot of interaction. 
+*It became clear that designing every function that a platform like readerhub can be complicated to design since many actions can be performed on a single page.
+
+**Cognitive Walkthroughs**: Cognitive walkthroughs lets you get some user interaction and feedback on how to accomplish tasks. 
+*It was found that our wireframe needed to make our buttons more clear to the user. 
+*The features designed may or may not be used by users as they have different needs.
+*Going forward the interactions between the user and the wireframe will be more clear. 
+
 
 [Full phase II report](phaseII/)
 

@@ -1,4 +1,4 @@
-## Wireframes
+# Wireframes
 
 
 
@@ -6,7 +6,7 @@ One of the tools at our disposal to design our product was the wireframe. By thi
 
 In the following text, we aim to go over all of our wireframes in detail in order to explain how every page works and behaves, as well as all of the features that our final product will have. 
 
-# Login and Sign up pages
+## Login and Sign up pages
 
 We started with the pages that would allow the users to log in and sign up. These were utterly standard, similar to what you would find on any other website. It was done this way because this common action needs to be performed successfully to access the site, so it would not make sense to think of an innovative way to design this first interaction.
 
@@ -17,7 +17,7 @@ If the user already has an account they should provide their information and cli
 
 The design of these two particular pages didn’t change much from our first idea, but we listened to the feedback we received. The feedback from the cognitive walkthrough conducted in class made us aware of the fact that the “Sign in” link was too small and they had trouble seeing it at first. Because of this, we decided to make all of the text on these pages bigger, so that nobody would have that kind of problem anymore. 
 
-# forgot password 
+## forgot password 
 
 On the login page you can see that there is a link that allows you to take action in case you forgot your password. 
 By clicking this link you would be redirected to the following page
@@ -39,7 +39,7 @@ Once you type in the newly chosen password and click “confirm new password”,
 At any point you can go back to the login page if you change your mind by clicking on the button “Cancel/Return to login page”.
 
 
-# Home page
+## Home page
 
 The first page that you would see once you access the website is the following.
 
@@ -65,7 +65,7 @@ All of these versions have the top bar in common, where you can see, from left t
 We received negative feedback on this top bar so we tried to improve it in our latest design. We decided to make the search bar bigger and with clear indications about where to type. This is because people seemed to have difficulty navigating around it.
 
 
-# search page
+## search page
 
 Once you type something on the search bar and press the enter key on your computer’s keyboard you will be redirected to a search page:
 
@@ -84,7 +84,7 @@ Image here
 
 This is as straightforward as possible, it would simply show you the list of the profiles that have a username that is equal to or similar to the one you typed into the search bar. Obviously, if there is an identical match, that will be shown as a first result, and similar profiles would be shown later.
 
-# book page
+## book page
 
 Now let us assume that you have found a book that interests you. To access the information about the said book you would have to click either on the cover or on the title to be redirected to another page.
 
@@ -99,7 +99,7 @@ Of course, you would also need reviews. At the bottom of the page on the left, y
 
 It is also important to note the button next to the title of the book. That button, labeled “add to library” allows you to add that book to your profile page. It will automatically show up on your “liked books” list, but you can customize it and move it to another list. 
 
-# notification page
+## notification page
 
 Now it’s time to analyze the pages you can access through the buttons at the top of the page. From left to right the first that you are going to see is the notification button, that for now looks like a suitcase but will probably be changed in the future. 
 
@@ -107,7 +107,7 @@ image here
 
 The notification page is essential since it will be the place where you will be able to accept friend requests. This is the main function of this page. Through here you will also be able to see who accepted your friend request as well as who likes your posts and comments under them.
 
-# help page
+## help page
 
 The third button from the left on the top bar redirects you to a help page, designed to answer FAQs and solve some problems that you might be having.
 
@@ -120,7 +120,7 @@ On the main part of the page, you can see a text box that allows you to type a q
 Right underneath you will find a series of frequently asked questions in a drop-down style, meaning that if you click one of them the box will “open up” and show you the answer.
 These frequently asked questions will be based on what we saw on other websites since we don’t have anyone, for now, to give us actual feedback on what could be asked. 
 
-# Inbox page
+## Inbox page
 
 This page is the core of this platform. This is what was missing in all of our competitors and this is the strength of our product. Even if the design is not innovative, we believe that this page is the most important of our platform. We want users to interact with each other and to have an efficient way to do it. 
 This is also the reason why the design of the platform is not innovative, we want users to know how to interact with it without any help.
@@ -135,7 +135,7 @@ On the bottom of the page, there is a text box that allows you to type the messa
 
 
 
-# profile page
+## profile page
 
 The last page that we can access through the top bar is the personal profile page. This is your means to publish your posts and let people know something about yourself through your picture and your bio. On this page, people would be able to see your personal library as well as your previous post. 
 It is also through this page that you can keep track of the books you have read and those that you want to read. You can also create new personalized lists to rearrange the books in the way you prefer. 
@@ -154,7 +154,7 @@ On the right side, you have your lists, where you can add books using the “+ a
 Regarding the previously mentioned exception, you can add books to almost any list with the “+ add book” button. To add books to the “liked books” list instead you have to go to the book page and click on the “add to library” button.
 
 
-# edit profile 
+## edit profile 
 
 As explained before, you can update your personal information using the “edit” button located on the profile page. Once you click it, you will be redirected to the following page
 
@@ -176,7 +176,7 @@ Through this page, you can also change the settings to dark mode or light mode. 
 
 Once you are done with this and are satisfied with the changes, you can click the “save changes” button located at the bottom of the page, and you will be redirected to the main profile page, which will now be updated. If, on the other hand, you do not want to apply the changes, you can click the “cancel” button, and the profile page will look as it did before. 
 
-# other profiles
+## other profiles
 
 Obviously you will need to interact with other people’s profiles. The interface will look almost identical to the one of your own profile, with the only difference that you will not be able to perform the same actions.
 
@@ -189,7 +189,7 @@ You can also see their posts and interact with them in the same way you would ha
 The most important thing, though, is that you can send them a friend request. You can do this through the button that is labeled as “send friend request”, as straightforward as possible. This button is located where the “edit” button is located in your profile.
 
 
-# ending
+## ending
 
 This is the most accurate explanation of the wireframes that we could manage. We decided to describe in detail each page and how it works instead of performing a cognitive walkthrough because we deemed it better to be thorough with a detailed explanation rather than just going over a portion of all the functionalities. 
 

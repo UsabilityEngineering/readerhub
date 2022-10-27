@@ -10,11 +10,17 @@ ReaderHub is mainly a platform that aims to connect readers all around the world
    * Executive summary
    * Introduction
    * Report 
+   * Wireframes text and artboards
+   * Conclusions and Caveats Report
+   
 * **[Max Hibbard](https://usabilityengineering.github.io/ux-portfolio-Subasamax/)** 
  
    * Personas and Scenarios Page
    * Sketch and Diagram Page
    * Heuristic Evaluation Report
+   * Wireframes revision and artboards
+   * Report
+   * Executive summary
 
 # User-Centered Design Artifacts
  

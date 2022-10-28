@@ -63,6 +63,7 @@ On the left-hand side, we can see some videos and articles. At first, they would
 At first, though, you would have helpful videos and guides about how to interact with the platform. This is done because we want this website to be accessible to everyone, even people who have little to no experience with the Internet. 
 
 ![homepagefriendsposts](assets/homepagefriendsposts.png)
+
 ![homepagefriendsposts1](assets/homepagefriendsposts1.png)
 
 In this second version of the homepage, we show how the homepage would look once you start following people. You can then interact with the posts they make by leaving hearts or comments to express your opinion. You can also see what your interface would look like when you decide to leave a comment and post it. 

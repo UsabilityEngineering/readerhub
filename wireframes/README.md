@@ -8,9 +8,16 @@ In the following text, we aim to go over all of our wireframes in detail in orde
 
 ## Login and Sign up pages
 
+
+
+
 We started with the pages that would allow the users to log in and sign up. These were utterly standard, similar to what you would find on any other website. It was done this way because this common action needs to be performed successfully to access the site, so it would not make sense to think of an innovative way to design this first interaction.
 
 Insert images of the first two pages here
+
+![loginpage](assets/LogInPage1.png)
+
+![signup1](assets/signup1.png)
 
 If the user does not have an account yet they should click on the bottom link in order to make one. Once they have filled in the text boxes, they should click on “create an account” in order to be brought back to the initial page where they are prompted to insert their login information. 
 If the user already has an account they should provide their information and click on the LOGIN button to access the website.
@@ -22,17 +29,17 @@ The design of these two particular pages didn’t change much from our first ide
 On the login page you can see that there is a link that allows you to take action in case you forgot your password. 
 By clicking this link you would be redirected to the following page
 
-image here
+![ForgotPassword](assets/ForgotPassword.png)
 
 The page has a textbox in the center that prompts you to insert your email address in order to be able to reset your password. Once you type in your email address you can decide to either click on the button that would send you a reset code through said email, or go back to where you started from.
 
 If you choose to receive a reset code, you will reach the following page.
 
-Image here
+![ResetPassword](assets/ResetPassword.png)
 
 Once you input the code that was sent to you, you can finally reset your password by clicking on the button labeled “reset password”, that would bring you to the following page.
 
-Image here
+![ResetPasswordNewPassword](assets/ResetPasswordNewPassword.png)
 
 Once you type in the newly chosen password and click “confirm new password”, you have completed your task and now every time you log in you will have to use the new password that you just created.
 
@@ -43,7 +50,7 @@ At any point you can go back to the login page if you change your mind by clicki
 
 The first page that you would see once you access the website is the following.
 
-Insert image here
+![homepagenofriends](assets/homepagenofriends.png)
 
 As you can see there are a lot of functionalities here, but we tried to make it as intuitive as possible.
 
@@ -55,7 +62,8 @@ On the left-hand side, we can see some videos and articles. At first, they would
 
 At first, though, you would have helpful videos and guides about how to interact with the platform. This is done because we want this website to be accessible to everyone, even people who have little to no experience with the Internet. 
 
-Images here
+![homepagefriendsposts](assets/homepagefriendsposts.png)
+![homepagefriendsposts1](assets/homepagefriendsposts1.png)
 
 In this second version of the homepage, we show how the homepage would look once you start following people. You can then interact with the posts they make by leaving hearts or comments to express your opinion. You can also see what your interface would look like when you decide to leave a comment and post it. 
 
@@ -69,7 +77,7 @@ We received negative feedback on this top bar so we tried to improve it in our l
 
 Once you type something on the search bar and press the enter key on your computer’s keyboard you will be redirected to a search page:
 
-Image here
+![BookSearchProto](assets/BookSearchProto.png)
 
 This page is what allows you to perfect your search. If you typed the title of a specific book it would show you that book, but if you decided that you wanted to search for something broader you would be able to navigate through a lot of different books through the buttons located on the left side of the screen.
 
@@ -80,7 +88,7 @@ It is important to note that you can combine the two sets of buttons, for exampl
 
 At the top of the page, you are prompted to clarify what you are searching for, either books or accounts. If you selected “Books” you would see the page described before, while if you select “Accounts” you would see the following page
 
-Image here
+![AccountSearc](assets/AccountSearch.png)
 
 This is as straightforward as possible, it would simply show you the list of the profiles that have a username that is equal to or similar to the one you typed into the search bar. Obviously, if there is an identical match, that will be shown as a first result, and similar profiles would be shown later.
 
@@ -88,7 +96,7 @@ This is as straightforward as possible, it would simply show you the list of the
 
 Now let us assume that you have found a book that interests you. To access the information about the said book you would have to click either on the cover or on the title to be redirected to another page.
 
-Image here
+![Bookpage](assets/Bookpage.png)
 
 This page looks like what you would find on Goodreads or even on Amazon, so it is not particularly innovative. It simply shows you the cover of the book accompanied by the plot and the name of the author. By clicking on the name of the author you would be sent to that particular author’s profile page. Next to this, we can find the tags that best describe this book, so that if you particularly like a feature of that book you can just type the tag into the search bar and you would find books that are tagged in the same way. 
 
@@ -103,7 +111,7 @@ It is also important to note the button next to the title of the book. That butt
 
 Now it’s time to analyze the pages you can access through the buttons at the top of the page. From left to right the first that you are going to see is the notification button, that for now looks like a suitcase but will probably be changed in the future. 
 
-image here
+![Notifications](assets/Notifications.png)
 
 The notification page is essential since it will be the place where you will be able to accept friend requests. This is the main function of this page. Through here you will also be able to see who accepted your friend request as well as who likes your posts and comments under them.
 
@@ -111,7 +119,7 @@ The notification page is essential since it will be the place where you will be 
 
 The third button from the left on the top bar redirects you to a help page, designed to answer FAQs and solve some problems that you might be having.
 
-Image here
+![helppage](assets/helppage.png)
 
 On the right side of the page, you can see that the “how to use this platform” video is repurposed because it will avoid errors that are made by the users only because they don’t understand how to interact with the platform effectively. 
 Underneath this, you can read the community guidelines, which is a standard thing to have on the help/info page.
@@ -125,7 +133,7 @@ These frequently asked questions will be based on what we saw on other websites 
 This page is the core of this platform. This is what was missing in all of our competitors and this is the strength of our product. Even if the design is not innovative, we believe that this page is the most important of our platform. We want users to interact with each other and to have an efficient way to do it. 
 This is also the reason why the design of the platform is not innovative, we want users to know how to interact with it without any help.
 
-insert image here
+![Messages](assets/Messages.png)
 
 On the left of the screen, there is a list of the active conversations showing you the profile picture of the person you were talking to, as well as the username and the last message that was sent. This is what you would see in any messaging platform; think for example WhatsApp web or Instagram direct messages.
 
@@ -141,14 +149,14 @@ The last page that we can access through the top bar is the personal profile pag
 It is also through this page that you can keep track of the books you have read and those that you want to read. You can also create new personalized lists to rearrange the books in the way you prefer. 
 
 
-Image here
+![MyProfile](assets/MyProfile.png)
 
 On the top of the page, you can see your profile picture as well as your username and bio, which you can update with the “edit” button placed on the right side of the screen next to the bio. You can also see the number of your posts and the number of people that you are friends with. 
 
 Underneath that, you have on the left side the space where you can post something using the “write something” button. Once you press it your interface would look like this:
 
 
-Image here
+![Howyouwouldpost](assets/Howyouwouldpost.png)
 
 On the right side, you have your lists, where you can add books using the “+ add book” button, with an exception that will be explained later. There are three pre-made lists, “liked books”, “read”, and “to read”. You can create new lists using the “create new list” button. 
 Regarding the previously mentioned exception, you can add books to almost any list with the “+ add book” button. To add books to the “liked books” list instead you have to go to the book page and click on the “add to library” button.
@@ -158,7 +166,7 @@ Regarding the previously mentioned exception, you can add books to almost any li
 
 As explained before, you can update your personal information using the “edit” button located on the profile page. Once you click it, you will be redirected to the following page
 
-Image here
+![Editprofile](assets/Editprofile.png)
 
 At the top of the page, you can see your profile picture, which would show what you have currently uploaded, but you can change it by clicking on the “update photo” button located right underneath it. You will be able to select your photo on your computer and upload it.
 
@@ -166,7 +174,7 @@ Right underneath you can see a textbox containing your username, which you can c
 
 There is also a button next to this that would allow you to change your password. This button would open a new page.
 
-Image here
+![ProfileChangePassword1](assets/ProfileChangePassword1.png)
 
 You would have to type in your current password in order to be able to change the password. Once you do, you type in the new desired password twice and click on the “Confirm new password” button that will save your changes and bring you back to the “edit profile” page. If you decide that you do not wish to proceed with the action you can just click on the “Cancel” button that will bring you back to the “edit profile” page without saving your changes.
 
@@ -180,7 +188,7 @@ Once you are done with this and are satisfied with the changes, you can click th
 
 Obviously you will need to interact with other people’s profiles. The interface will look almost identical to the one of your own profile, with the only difference that you will not be able to perform the same actions.
 
-image here
+![OtherProfile](assets/OtherProfile.png)  
 
 You will not be able to make changes to their profile, but you can browse through their library, for example, you might want to see what books they liked or what lists they have made. 
 

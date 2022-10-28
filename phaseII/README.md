@@ -39,8 +39,8 @@ After the cognitive walkthrough we realized that there were a lot of things miss
 
 ## Caveats
 
-** There is limited user interaction in the cognitive walkthrough.
-** There is no visual feedback to illustrate what you are doing when you interact with the wireframes.
-** The workflow of our platform can become complicated.
-** What may have played a role in the issues our peers had during the cognitive walkthrough is that the wireframes themselves were less precise than what we have now. 
+* There is limited user interaction in the cognitive walkthrough.
+* There is no visual feedback to illustrate what you are doing when you interact with the wireframes.
+* The workflow of our platform can become complicated.
+* What may have played a role in the issues our peers had during the cognitive walkthrough is that the wireframes themselves were less precise than what we have now. 
 

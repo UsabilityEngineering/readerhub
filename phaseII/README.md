@@ -37,6 +37,8 @@ We decided to take into account the critiques that were made and use them to bui
 
 After the cognitive walkthrough we realized that there were a lot of things missing from our wireframes, so we went through them again and added more details and artboards that would make the interaction a lot easier for the user. 
 
+There is another thing that needs to be brought to attention. It was decided that our final prototype will have minimal visual design since we are focusing on making the interaction smoother and easier for the users, given how complicated the workflow is. This means that the only visual design that is going to be added is the one that will help the users navigate our product better.
+
 ## Caveats
 
 * There is limited user interaction in the cognitive walkthrough.

@@ -64,7 +64,7 @@ During this phase, the tools of wireframes and cognitive walkthroughs were used 
 * The features designed may or may not be used by users as they have different needs.
 * Going forward the interactions between the user and the wireframe will be more clear. 
 
-When the prototype will be finished, there is going to be minimal visual design since there is the intention to focus on making the interaction smoother than it is now.
+When the prototype will be finished, there is going to be minimal visual design since the intention is to focus on making the user interaction smoother than it is now.
 
 
 [Full phase II report](phaseII/)

@@ -18,8 +18,7 @@ ReaderHub is mainly a platform that aims to connect readers all around the world
    * Personas and Scenarios Page
    * Sketch and Diagram Page
    * Heuristic Evaluation Report
-   * Wireframes revision and artboards
-   * Wireframe assets
+   * Wireframes revision and artboard
    * Report
    * Executive summary
 

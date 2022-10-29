@@ -167,7 +167,7 @@ Regarding the previously mentioned exception, you can add books to almost any li
 
 As explained before, you can update your personal information using the “edit” button located on the profile page. Once you click it, you will be redirected to the following page
 
-![Editprofile](assets/Editprofile.png)
+![Editprofile](assets/EditprofileFinal.png)
 
 At the top of the page, you can see your profile picture, which would show what you have currently uploaded, but you can change it by clicking on the “update photo” button located right underneath it. You will be able to select your photo on your computer and upload it.
 
@@ -184,6 +184,13 @@ Below this, you can update your bio in the same way, using the “change descrip
 Through this page, you can also change the settings to dark mode or light mode. You can do this using a slide button that next to it now shows the text “Light Mode: ON”, if you slide the button the text will be saying “Night Mode: ON”. This was done to avoid the confusion that usually comes with slide buttons. 
 
 Once you are done with this and are satisfied with the changes, you can click the “save changes” button located at the bottom of the page, and you will be redirected to the main profile page, which will now be updated. If, on the other hand, you do not want to apply the changes, you can click the “cancel” button, and the profile page will look as it did before. 
+
+Another important buttons on the page is the sign out button located at the bottom. Once you click the button a small window will display asking if you are sure you want to log out. 
+
+![OtherProfile](assets/SignOut.png)  
+
+If you cancel, it will just close itself and return you to the edit profile page. If you click sign out, you will be redirected to the log in page. 
+
 
 ## other profiles
 

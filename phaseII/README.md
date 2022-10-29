@@ -8,6 +8,7 @@ Once we were done with this step our peers performed a cognitive walkthrough usi
 **Method**
 
 Wireframes show all possible interactions between the user and the program. A wireframe shows each possible page in those interactions in a basic way without any visual design.
+
 **Findings**
 
 The interaction on a wireframe made for social media interaction is complicated as there are a lot of factors to take into consideration. For example, the entire profile interaction is a complicated process as you need to let them see their book library, let them edit their profile, and post. 

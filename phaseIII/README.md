@@ -84,17 +84,17 @@ As far as formative conclusions go, we understood that we have to improve some t
 Our summative conclusions were a bit more positive, the prototype itself worked well enough that most tasks were completed. Besides some things that need to be moved or changed, everything worked as we expected and most tasks were gone through as we expected. There were exceptions but nothing that requires a lot of work on our part.
 In the future we should focus on perfecting the work we have already done by resolving the issues that our participants brought to our attention, as well as the formative revisions previously noted.
 
-##Caveats
+## Caveats
 
-Not wording questions correctly. For example, task 2 “leave a review of the book in your library”, implied the unnecessary step of going to the library to open the book page once more, even if task 1 ended on that same book page.
+* Not wording questions correctly. For example, task 2 “leave a review of the book in your library”, implied the unnecessary step of going to the library to open the book page once more, even if task 1 ended on that same book page.
 
-Most tasks had leading words like “comment” or “post”, “log out” or “review” that corresponded with a feature on the prototype. 
+* Most tasks had leading words like “comment” or “post”, “log out” or “review” that corresponded with a feature on the prototype. 
 
-We tested people who were similar and age group as well as occupation. Mainly students in a class. We didn’t have enough variety of users in the user test to more meaningful data. 
+* We tested people who were similar and age group as well as occupation. Mainly students in a class. We didn’t have enough variety of users in the user test to more meaningful data. 
 
-We didn’t include an ease of use rating in the user test for each task. This limited our ability to collect information on how learnable and fun the prototype was. 
+* We didn’t include an ease of use rating in the user test for each task. This limited our ability to collect information on how learnable and fun the prototype was. 
 
-On task 3 we asked the participants to search for someone named “@johnSmith” but then we didn’t have anyone named like that, so this caused confusion.
+* On task 3 we asked the participants to search for someone named “@johnSmith” but then we didn’t have anyone named like that, so this caused confusion.
 
-We wanted people to be able to message a person only if they had that person as a friend but this wasn’t implemented correctly.
+* We wanted people to be able to message a person only if they had that person as a friend but this wasn’t implemented correctly.
 

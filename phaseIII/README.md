@@ -8,48 +8,51 @@ During this phase we worked on actually testing our prototype. We had five peopl
 
 We approached our user test with the goal of testing how well the prototype is to navigate and operate. We wanted the participants to only use our prototype during the user test. We had the participants in the user test run through 6 tasks to we thought were the most important to move forward in our project. In each task we recorded their workflow to complete the task as milestones on each task we thought were important.  We asked the participants to use the think aloud protocol, so that we can get more accurate data about their difficulties and concerns with the site. Before testing the participants, we asked them some background questions. 
 
-What is your age?
-Do you enjoy reading books?
-(If so) How do you find new books?
-Any difficulties:
- Do you use social media?
+* What is your age?
+* Do you enjoy reading books?
+  * (If so) How do you find new books?
+  * Any difficulties:
+ * Do you use social media?
 
 The number of participants were (n=5). The list of tasks we asked the participants to do are as follows. 
 
-You have been wanting to read a new history book for some time now, but you don’t know exactly what yet. Once you find the history books, add the first one to your library.
-Found a way to search for history books:    _Yes    _No
-Add the book to the library:       _Yes     _No
-Task completed:    _Yes      _No
-Leave a review of the book in your library. 
-Found the library:    _Yes    _No
-Write the review:       _Yes     _No
-Task completed:    _Yes      _No
-I want you to imagine you have an companion named @johnSmith that you want to communicate with. You need a way to communicate with them from the website. Find and communicate with them.
+* You have been wanting to read a new history book for some time now, but you don’t know exactly what yet. Once you find the history books, add the first one to your library.
+  * Found a way to search for history books:    _Yes    _No
+  * Add the book to the library:       _Yes     _No
+  * Task completed:    _Yes      _No
+  * Leave a review of the book in your library. 
+  * Found the library:    _Yes    _No
+  * Write the review:       _Yes     _No
+  * Task completed:    _Yes      _No
+  
+* I want you to imagine you have an companion named @johnSmith that you want to communicate with. You need a way to communicate with them from the website. Find and communicate with them.
 Found the profile search page:  __Yes       __No
-Added them as a friend:             __Yes       __No
-Sent them a message:               __Yes       __No
-Task Completed                         __Yes       __No
-You really liked a post you have seen. In order to express this, comment on that post. 
-Found the post:  		    _Yes       _No
-Uploaded their comment:           _Yes       _No
-Task Completed:        		    _Yes       _No
-Now that you are familiar with posts, try writing your own and posting it.
-Write the post: 		    _Yes       _No
-Uploaded the post                      _Yes       _No
-Task Completed:                         _Yes       _No
-Now that you are done with your tasks, sign out of the website.
-Found the sign out button:          _Yes       _No
-Successfully signed out:              _Yes       _No
-Task Completed:      		     _Yes        _No
+  * Added them as a friend:             __Yes       __No
+  * Sent them a message:               __Yes       __No
+  * Task Completed                         __Yes       __No
+  
+* You really liked a post you have seen. In order to express this, comment on that post. 
+  * Found the post:  		    _Yes       _No
+  * Uploaded their comment:           _Yes       _No
+  * Task Completed:        		    _Yes       _No
+
+* Now that you are familiar with posts, try writing your own and posting it.
+  * Write the post: 		    _Yes       _No
+  * Uploaded the post                      _Yes       _No
+  * Task Completed:                         _Yes       _No
+* Now that you are done with your tasks, sign out of the website.
+  * Found the sign out button:          _Yes       _No
+  * Successfully signed out:              _Yes       _No
+  * Task Completed:      		     _Yes        _No
 
 After the tasks we asked the participants some wrap up questions to end off the user test. They are as follows. 
-Now that you have used the website, I want to know more about your impressions of it. Overall what did you like most about it?
-What did you dislike most about it?
-Overall, what were the difficulties you encountered during your experience using the site?
-Were the features easy to navigate?
-Are there any additional features you felt were missing or could be added?
-Do you have any insights on what could be done better?
-Any other thoughts or comments?
+* Now that you have used the website, I want to know more about your impressions of it. Overall what did you like most about it?
+* What did you dislike most about it?
+* Overall, what were the difficulties you encountered during your experience using the site?
+* Were the features easy to navigate?
+* Are there any additional features you felt were missing or could be added?
+* Do you have any insights on what could be done better?
+* Any other thoughts or comments?
 	
 After the follow up questions, we thanked them for their time and ended the user test.
 

@@ -61,15 +61,33 @@ After the follow up questions, we thanked them for their time and ended the user
 During the completion of task 1 it was found that the majority of the participants were able to correctly perform the actions of searching for a book and adding it to their library. There was one thing that is important to bring to attention, at first most of the participants (about 60%) thought that the search bar would work like the one in google, meaning they expected to click on it and immediately being redirected to the search page. One participant even said “this doesn’t do anything”. Still, after noticing that they were able to click on the search button right next to the textbox, they performed the task without issue. 
 
 Task 2 seemed to be a bit more problematic for all of the participants. Most of the participants didn’t try to find the library at all since they were all already on the book page. Those who did (2/5), though, did it only because it was implied in the task, but they expressed the fact that going to the library to review a book they had already opened up felt unnecessary. Also both of these participants had difficulties in finding the library. They both searched the top bar and expected the library to be behind the toolbox icon, where instead the notification page is. After some searching they successfully found the library.
+
+![Task2Library](Assets/Task2Library.png)
+
 All five participants successfully completed the “leave a review” part of the task. One of the participants even vocalized how much they liked the book page and the rating system, which divides the ratings for general people from those from critics and people you follow. Another one even used the words “easy and straightforward” in relation to the leaving a review feature. 
 
+
+
 Task 3 wasn’t completed how we expected by the majority of people and we assume it was because it wasn’t worded properly. Only two people actually found the profile page and added the person we suggested as a friend. All of them though, besides only one, were able to message them. This was possible since they found the inbox page on the top bar and simply texted the first person that was shown on there. 
+
+![Task2Library](Assets/Task3Foundprofilesearch.png) 
+![Task3AddedFriend](Assets/Task3AddedFriend.png)
+![Task3Message](Assets/Task3Message.png)
+![Task3complete](Assets/Task3complete.png)
+
+
 
 Task 4 was completed successfully by everyone. When asked for comments on that specific task some people expressed that it was easy to complete since it was straightforward and similar to a lot of other social media that they are used to.
 
 Task 5 was also easy to complete for everyone, still there was one common thread between all of the participants. They assumed they would be able to write their own post on the homepage since that is where they found all of the other posts. After expressing this though, some had to search for a bit, others went immediately to the profile page and were able to upload their own post successfully. One of the participants, however, said that they thought that “the word post wasn’t correctly defined”, which made it a bit more difficult for them to complete tasks 4 and 5.
 
 Task 6 was by far the most challenging one, with only one person out of the five able to complete it. The sign out button was on the “edit” page found in the profile page, but most of the participants didn’t think about opening it up, even if they had started to search through the whole prototype for a “sign out” button. Most expected a drop down menu to appear and the sign out feature to be on that. 
+
+
+![Task6SignoutButtonFound](Assets/Task6SignoutButtonFound.png)
+![Task6Signedout](Assets/Task6Signedout.png)
+![Task6Complete](Assets/Task6Complete.png)
+
 
 When asked the question “what did you like the most about our website?” the answers varied a lot. Some liked how straightforward it was, how familiar and therefore easy to navigate. One of the participants used the words “my natural mapping worked really well”. Some others, as said before, liked the book page and the differentiation between general, friends and critics reviews and ratings. A few liked the filters on the search page, and especially liked the “recommended” filter. Others also expressed appreciation for the fact that you can divide the search between books and accounts. Some also liked the social media aspect and expressed the need for a website like this. One of them didn’t enjoy reading books but wanted something like this for movies since he liked the platform so much.
 

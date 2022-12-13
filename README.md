@@ -12,6 +12,8 @@ ReaderHub is mainly a platform that aims to connect readers all around the world
    * Report 
    * Wireframes text and artboards
    * Introduction, Conclusions and Caveats Report
+   * Introduction, Findings, Conclusion Report
+   * Executive summary
    
 * **[Max Hibbard](https://usabilityengineering.github.io/ux-portfolio-Subasamax/)** 
  
@@ -21,6 +23,8 @@ ReaderHub is mainly a platform that aims to connect readers all around the world
    * Wireframes revision and artboard
    * Report
    * Executive summary
+   * Methods and Caveats Report
+   * Pictures and graphs Report
 
 # User-Centered Design Artifacts
  
@@ -77,10 +81,12 @@ During the next phase, the focus will be on making the user interaction smoother
 
 During this final phase we tested our prototype. Five people performed a series of tasks which allowed us to evaluate the ease of use of the prototype we developed. Furthemore, the participants were asked a few questions both to evaluate previous experience with similar apps and websites as well as opinions about the interactions with out own.
 There were both negative and positive findings:
+
 **Negative**
 * it was found that some of the features were not visible enough.
 * during our last task almost all participants had trouble finding the "log out" button.
 * some participants expressed dislike for the icons that were used on the prototype as they didn't match their mental model.
+
 **Positive**
 * the majority of the participants liked the idea and were willing to use that application in the future.
 * some liked the features that were implemented as they felt that all of the essential interactions were present on the prototype

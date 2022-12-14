@@ -120,3 +120,5 @@ In the future, we should focus on perfecting the work we have already done by re
 
 * We wanted people to be able to message a person only if they had that person as a friend but this wasn’t implemented correctly.
 
+* Any changes suggested should be put through more user testing.
+

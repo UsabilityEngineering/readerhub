@@ -6,7 +6,7 @@ During this phase, we worked on actually testing our prototype. We had five peop
 
 ## Methods
 
-We approached our user test with the goal of testing how well the prototype is to navigate and operates. We wanted the participants to only use our prototype during the user test. We had the participants in the user test run through 6 tasks to we thought were the most important to move forward in our project. In each task, we recorded their workflow to complete the task as milestones on each task we thought were important.  We asked the participants to use the think-aloud protocol so that we can get more accurate data about their difficulties and concerns with the site. Before testing the participants, we asked them some background questions. 
+We approached our user test with the goal of testing how easy the prototype is to navigate and operate. We wanted the participants to only use our prototype during the user test. We had the participants in the user test run through 6 tasks we thought were the most important to move forward in our project. In each task, we recorded their workflow to complete the task as milestones on each task we thought were important. We asked the participants to use the think-aloud protocol so that we can get more accurate data about their difficulties and concerns with the site. Before testing the participants, we asked them some background questions. 
 
 * What is your age?
 * Do you enjoy reading books?

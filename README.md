@@ -91,5 +91,6 @@ There were both negative and positive findings:
 * the majority of the participants liked the idea and were willing to use that application in the future.
 * some liked the features that were implemented as they felt that all of the essential interactions were present on the prototype
 
+Overall, there was valueable insight gained from the user testing that will help improve our website and user interaction. 
 
 [Full phase III report](phaseIII/)

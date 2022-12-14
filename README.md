@@ -84,7 +84,7 @@ There were both negative and positive findings:
 
 **Negative**
 * it was found that some of the features were not visible enough.
-* during our last task almost all participants had trouble finding the "log out" button.
+* during our last task 80% of participants had trouble finding the "log out" button.
 * some participants expressed dislike for the icons that were used on the prototype as they didn't match their mental model.
 
 **Positive**

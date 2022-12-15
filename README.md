@@ -9,22 +9,22 @@ ReaderHub is mainly a platform that aims to connect readers all around the world
 * **[Anna Di Iulio](https://usabilityengineering.github.io/ux-portfolio-adiiulio/)**  
    * Executive summary
    * Introduction
-   * Report 
+   * Report I
    * Wireframes text and artboards
-   * Introduction, Conclusions and Caveats Report
-   * Introduction, Findings, Conclusion Report
+   * Introduction, Conclusions and Caveats Report II
+   * Introduction, Findings, Conclusion Report III
    * Executive summary
    
 * **[Max Hibbard](https://usabilityengineering.github.io/ux-portfolio-Subasamax/)** 
  
    * Personas and Scenarios Page
    * Sketch and Diagram Page
-   * Heuristic Evaluation Report
+   * Heuristic Evaluation Report I 
    * Wireframes revision and artboard
-   * Report
+   * Report II
    * Executive summary
-   * Methods and Caveats Report
-   * Pictures and graphs Report
+   * Methods and Caveats Report III
+   * Pictures and graphs Report III
 
 # User-Centered Design Artifacts
  
@@ -79,7 +79,7 @@ During the next phase, the focus will be on making the user interaction smoother
 
 **Executive Summary**
 
-During this final phase we tested our prototype. Five people performed a series of tasks which allowed us to evaluate the ease of use of the prototype we developed. Furthemore, the participants were asked a few questions both to evaluate previous experience with similar apps and websites as well as opinions about the interactions with out own.
+During this final phase we tested our prototype. Five people performed a series of tasks which allowed us to evaluate the ease of use of the prototype we developed. Furthemore, the participants were asked a few questions both to evaluate previous experience with similar apps and websites, as well as opinions about the interactions with out own.
 There were both negative and positive findings:
 
 **Negative**

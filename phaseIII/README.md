@@ -2,11 +2,11 @@
 
 ## Introduction
 
-During this phase, we worked on actually testing our prototype. We had five people perform a variety of tasks that allowed us to evaluate the features that we had implemented. Through this process, we were able to identify what was working and what needed to be improved regarding the interaction as well as the actual design of the prototype.
+During this phase, we worked on testing our prototype. We had five people perform a variety of tasks that allowed us to evaluate the features that we had implemented. Through this process, we were able to identify what was working and what needed to be improved regarding the interaction as well as the actual design of the prototype.
 
 ## Methods
 
-We approached our user test with the goal of testing how easy the prototype is to navigate and operate. We wanted the participants to only use our prototype during the user test. We had the participants in the user test run through 6 tasks we thought were the most important to move forward in our project. In each task, we recorded their workflow to complete the task as milestones on each task we thought were important. We asked the participants to use the think-aloud protocol so that we can get more accurate data about their difficulties and concerns with the site. Before testing the participants, we asked them some background questions. 
+We approached our user test with the goal of testing how easy the prototype is to navigate and operate. We wanted the participants to only use our prototype during the user test. We had the participants in the user test run through 6 tasks we thought were the most important to move forward in our project. In each task, we recorded their workflow to complete the task as milestones on each task we thought were important. We asked the participants to use the think-aloud protocol so that we can get more accurate data about their difficulties and concerns with the site. Before starting the test, we asked the participants some background question:  
 
 * What is your age?
 * Do you enjoy reading books?
@@ -14,7 +14,7 @@ We approached our user test with the goal of testing how easy the prototype is t
   * Any difficulties:
  * Do you use social media?
 
-The number of participants were (n=5). The list of tasks we asked the participants to do are as follows. 
+The number of participants were (n=5). The list of tasks we asked the participants to do are as follows:
 
 * You have been wanting to read a new history book for some time now, but you don’t know exactly what yet. Once you find the history books, add the first one to your library.
   * Found a way to search for history books:    _Yes    _No
@@ -45,7 +45,7 @@ Found the profile search page:  __Yes       __No
   * Successfully signed out:              _Yes       _No
   * Task Completed:      		     _Yes        _No
 
-After the tasks we asked the participants some wrap up questions to end off the user test. They are as follows. 
+After the tasks we asked the participants some wrap up questions. They are as follows:
 * Now that you have used the website, I want to know more about your impressions of it. Overall what did you like most about it?
 * What did you dislike most about it?
 * Overall, what were the difficulties you encountered during your experience using the site?

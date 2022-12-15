@@ -25,7 +25,7 @@ The number of participants were (n=5). The list of tasks we asked the participan
   * Write the review:       _Yes     _No
   * Task completed:    _Yes      _No
   
-* I want you to imagine you have an companion named @johnSmith that you want to communicate with. You need a way to communicate with them from the website. Find and communicate with them.
+* I want you to imagine you have a companion named @johnSmith that you want to communicate with. You need a way to communicate with them from the website. Find and communicate with them.
 Found the profile search page:  __Yes       __No
   * Added them as a friend:             __Yes       __No
   * Sent them a message:               __Yes       __No
@@ -118,7 +118,7 @@ In the future, we should focus on perfecting the work we have already done by re
 
 * On task 3 we asked the participants to search for someone named “@johnSmith” but then we didn’t have anyone named like that, so this caused confusion.
 
-* We wanted people to be able to message a person only if they had that person as a friend but this wasn’t implemented correctly.
+* We wanted people to be able to message a person only if they had that person as a friend, but this wasn’t implemented correctly.
 
 * Any changes suggested should be put through more user testing.
 

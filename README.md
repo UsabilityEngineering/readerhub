@@ -83,13 +83,13 @@ During this final phase we tested our prototype. Five people performed a series 
 There were both negative and positive findings:
 
 **Negative**
-* it was found that some of the features were not visible enough.
-* during our last task 80% of participants had trouble finding the "log out" button.
-* some participants expressed dislike for the icons that were used on the prototype as they didn't match their mental model.
+* Some features were found to not be visible enough.
+* The "log out" button was not prominent enough and the vast majority of our participants was unable to find it.
+* Some participants expressed dislike for the icons that were used on the prototype as they didn't match their mental model.
 
 **Positive**
-* the majority of the participants liked the idea and were willing to use that application in the future.
-* some liked the features that were implemented as they felt that all of the essential interactions were present on the prototype
+* The majority of the participants liked the idea and were willing to use that application in the future.
+* Some liked the features that were implemented and they felt like there were no missing features. 
 
 Overall, there was valuable insight gained from the user testing that will help improve our website and user interaction.
 
